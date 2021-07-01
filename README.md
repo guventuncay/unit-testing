@@ -1,7 +1,7 @@
 # unit-testing
-Java unit testing practices
+Java unit testing & integration testing practices
 
-Spring Boot, JUnit5, Mockito
+Spring Boot, JUnit5, Mockito, AssertJ, JsonAssert, JsonPath
 
-course by in28minutes: https://www.udemy.com/course/learn-unit-testing-with-spring-boot/
+Course by in28minutes: https://www.udemy.com/course/learn-unit-testing-with-spring-boot/
 
